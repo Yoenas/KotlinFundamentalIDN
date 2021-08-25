@@ -1,5 +1,7 @@
 fun main(args: Array<String>) {
   
+  println("Hello World!")
+  
   // Nama seorang muslim
   val name = "Yusril"
   val age = 19
