@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
   
-  println("Hello World!")
+  println("Assalamu'alaikum")
   
   // Nama seorang muslim
   val name = "Yusril"
