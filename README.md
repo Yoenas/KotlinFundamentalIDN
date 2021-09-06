@@ -27,3 +27,4 @@ Jika repository ini dirasa masih belum cukup untuk membantu pemahaman siswa dala
 - https://play.kotlinlang.org/byExample/overview
 - https://kotlinlang.org/docs/kotlin-pdf.html
 - https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a
+- https://www.programiz.com/kotlin-programming
